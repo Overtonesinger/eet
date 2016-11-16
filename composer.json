@@ -1,5 +1,5 @@
 {
-    "name": "ondrejnov/eet",
+    "name": "Overtonesinger/eet",
     "description": "EET (Electronic records of sales for Czech Ministry of Finance) Client for PHP",
     "type": "library",
     "license": ["MIT", "BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
@@ -10,7 +10,7 @@
         "ext-curl": "*"
     },
     "require-dev": {
-        "nette/tester": "~1.4"
+        "nette/tester": "^1.7"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
